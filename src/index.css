@@ -1,0 +1,6 @@
+@import "tailwindcss";
+@plugin 'tailwind-scrollbar';
+
+html {
+  scroll-behavior: smooth;
+}
