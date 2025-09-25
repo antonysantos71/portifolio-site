@@ -35,7 +35,7 @@ export function Skills() {
   return (
     <section
       id="skills"
-      className="w-full p-6 md:h-[calc(100vh-64px)] flex flex-col items-center justify-center bg-zinc-900 text-white px-6"
+      className="w-full p-7 flex flex-col items-center justify-center bg-zinc-900 text-white px-6"
     >
       <h2 className="text-3xl md:text-4xl font-bold text-cyan-400 mb-10">
         Skills
